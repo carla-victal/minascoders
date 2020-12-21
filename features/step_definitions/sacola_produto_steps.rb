@@ -1,4 +1,4 @@
-Dado('que eu tenha encontrado uma tv {string}') do |string|
+Dado('que eu tenha encontrado uma tv {string}') do |pesquisa|
     visit "https://www.magazineluiza.com.br/"
     sleep 3
     find("#inpHeaderSearch").set "tv smart"
