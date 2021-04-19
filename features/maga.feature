@@ -1,9 +1,9 @@
 #language: pt
 
-Funcionalidade: Usuário deseja realizar uma pesquisa por uma Smart TV LED 32
+Funcionalidade: Usuário deseja realizar uma compra por uma Smart TV LED 32
 Para que eu possa realizar uma pesquisa de uma tv
 Sendo um cliente que deseja comprar uma tv com mais recursos e de 32 polegadas
-Posso acessar o site da magazine luiza e realizar a busca por uma Smart TV LED 32
+Posso acessar o site da magazine luiza e realizar a busca por uma Smart TV LED 32 e adicionar à sacola
 
 
 @cenario1
