@@ -10,4 +10,4 @@ export const options = { vus: 10, duration: "5s" };
 export default function main () {
     let response = http.get('https://www.magazineluiza.com.br')
 
-}
+} 
