@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Dado("que eu tenha encontrado uma tv {string}") do |string|
   visit "https://www.magazineluiza.com.br/"
   sleep 3
@@ -7,7 +6,7 @@ Dado("que eu tenha encontrado uma tv {string}") do |string|
   find("#btnHeaderSearch").click
   pesquisa = expect(page.assert_text("Smart TV LED 32")).to eql true
 end
-=======
+
 Dado('que eu tenha encontrado uma tv {string}') do |pesquisa|
     visit "https://www.magazineluiza.com.br/"
     sleep 3
